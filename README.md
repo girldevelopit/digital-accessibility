@@ -1,2 +1,3 @@
-# gdi-featured-accessibility
-Slides for the Girl Develop It Accessibility Class
+# gdi-accessibility
+
+Curriculum repository for Accessibility courses, workshops and related topics for Girl Develop It.
